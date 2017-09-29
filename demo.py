@@ -6,7 +6,7 @@ print("Start")
 
 app="New App"
 
-var hello = "Hello World!"
+hello = "Hello World!"
 
 print("Application Name=" + app)
 
